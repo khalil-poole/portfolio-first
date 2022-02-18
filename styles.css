@@ -299,7 +299,7 @@ span {
 
 .language__list {
     display: flex;
-    flex-wrap: wrap; /*Pushes additional four languages to a new row*/
+    /*flex-wrap: wrap; /*Pushes additional four languages to a new row*/
     width: 100%;
     justify-content: center;
 }
